@@ -95,3 +95,4 @@ const styles = StyleSheet.create({
 });
 
 AppRegistry.registerComponent('Conference', () => App);
+//React
